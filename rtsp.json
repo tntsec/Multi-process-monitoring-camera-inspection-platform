@@ -1,0 +1,9 @@
+{
+  "haikang" : ":554/h264/ch1/main/av_stream",
+  "yushi" : ":554/video1",
+  "rtsp" : [
+    {"ip" : "172.16.1.1","hostname" : "摄像头1","brand" :  "yushi","name": "admin","password": "admin"},
+    {"ip" : "172.16.1.2","hostname" : "摄像头2","brand" :  "yushi","name": "admin","password": "admin"},
+    {"ip" : "172.16.1.3","hostname" : "摄像头3","brand" :  "haikang","name": "admin","password": "admin"}
+  ]
+}
